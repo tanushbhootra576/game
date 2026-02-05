@@ -1,16 +1,16 @@
 
-# 🎮 Tic Tac Toe Game
+#  Tic Tac Toe Game
 
 A simple, interactive Tic Tac Toe game built using NEXT , JavaScript and CSS. Play with a friend on the same device and enjoy the classic 3x3 grid game!
 
-## 🧩 How It Works
+##  How It Works
 
 - Two players take turns placing X and O on a 3x3 grid.
 - The first player to align three symbols in a row, column, or diagonal wins.
 - If all cells are filled without a winner, the game ends in a draw.
 - A "Restart" button lets you reset the game anytime.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 your-nextjs-app/
@@ -42,26 +42,26 @@ your-nextjs-app/
  
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 - Clone the repo
 - Run npm install
 - Run npm run dev to start the app
 
-## ✅ Features
+##  Features
 
 - Simple and intuitive interface
 - Playable on desktop and mobile browsers
 - Instant win/draw detection
 - Reset functionality
 
-## 🔧 Built With
+##  Built With
 
 - React
 - JavaScript
 - CSS
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - Add a single-player mode with AI
 - Add animation and sound effects
